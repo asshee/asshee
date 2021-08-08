@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @asshee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-asshee/asshee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If u have questions:
+My discord: ashe#6139
+Discord ID: 397414803473170432
